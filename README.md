@@ -1,2 +1,2 @@
 # My Portofolio
-Belajar free hosting dengan github
+Repo to learn free static web hosting with github.
