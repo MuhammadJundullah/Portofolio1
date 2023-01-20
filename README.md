@@ -1,2 +1,2 @@
 # My Portofolio
-Repo to learn free static web hosting with github.
+my simple portofolio
